@@ -1,0 +1,2 @@
+# wardenprotocol
+Script auto install
